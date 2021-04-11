@@ -4,7 +4,8 @@ An automated fake news detection website that can perform the following
 tasks: <br />
 ● Check the news source's authenticity by providing fake news% <br />
 ● Check whether the title of the news is accurate. <br />
-● Check whether the text/content of the news is accurate.
+● Check whether the text/content of the news is accurate. <br />
+● For developer friendly environment we have also given a Command line implementation of our project. Go to https://github.com/HYFRAK/FAKE_NEWS_DETECTION.git.
 ***
 ## Getting Started
 ***
@@ -32,4 +33,7 @@ Add an Article in the text area (Short titles can also be predicted as well as l
 #### Two or more arguments can also be passed simultaneously:
 You can give multiple inputs too.
 ***
+## Live Implementation
+***
 
+***
