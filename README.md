@@ -16,7 +16,7 @@ pandas==1.1.5
 scikit_learn==0.24.1
 
 Clone the repo using :
->%git clone 
+>%git clone https://github.com/anuragbapat10/Fake_News_Detector_In_Django.git
 
 #### Run the Django Server
 >%python manage.py runserver
